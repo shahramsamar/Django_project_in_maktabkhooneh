@@ -1,2 +1,2 @@
 # Django_project
-This is contain in my code
+This is contain in my code for django on maktabkhoneh
